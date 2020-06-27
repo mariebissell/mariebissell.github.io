@@ -28,5 +28,5 @@ I am also currently collaborating with Cynthia Clopper (Ohio State University) a
 
 In my spare time
 ======
-I enjoy crocheting, hiking, and birds.
+I enjoy crocheting, baseball, and birds.
 
