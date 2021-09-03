@@ -1,11 +1,5 @@
 # main links links
-main:
-  - title: "Publications"
-    url: /publications/    
-
-  - title: "Conference presentations"
-    url: /conferences/    
-    
+main: 
   - title: "Curriculum vitae"
     url: /cv/
 
