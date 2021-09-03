@@ -1,11 +1,11 @@
 # main links links
 main:
-  - title: "Conference Presentations"
-    url: /talks/    
+  - title: "Publications"
+    url: /publications/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Conference presentations"
+    url: /conferences/    
     
-  - title: "CV"
+  - title: "Curriculum vitae"
     url: /cv/
 
