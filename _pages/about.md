@@ -22,7 +22,7 @@ Bissell, M., & Wolfram, W. (2022). Oppositional identity and back vowel fronting
 <br><br><br>
 
 <strong>Current projects</strong><br>
-<i>Pre-voiceless diphthong raising in Greater New Orleans, Louisiana</i>: We are investigating the phonetic origin, diachronic implementation, and phonologization of pre-voiceless /aj/ and /aw/ raising. This project is an ongoing collaboration with [Katie Carmichael](https://liberalarts.vt.edu/departments-and-schools/department-of-english/faculty/katie-carmichael.html) at Virginia Tech, [Kelly Berkson](https://linguistics.indiana.edu/about/faculty/berkson-kelly.html) at Indiana, and [Irina Shport](https://www.lsu.edu/hss/english/faculty/faculty/ishport.php) at LSU).
+<i>Pre-voiceless diphthong raising in Greater New Orleans, Louisiana</i>: We are investigating the phonetic origin, diachronic implementation, and phonologization of pre-voiceless /aj/ and /aw/ raising. This project is an ongoing collaboration with [Katie Carmichael](https://liberalarts.vt.edu/departments-and-schools/department-of-english/faculty/katie-carmichael.html) at Virginia Tech, [Kelly Berkson](https://linguistics.indiana.edu/about/faculty/berkson-kelly.html) at Indiana, and [Irina Shport](https://www.lsu.edu/hss/english/faculty/faculty/ishport.php) at LSU.
 <br><br>
 <i>Dialect effects on perceptual adaptation and generalization</i>: My second qualifying paper examines how dialect experience with particular types of vowel shifts in regional varieties of American English affects perceptual adaptation to and generalization of a novel vowel shift. Preliminary results suggest that certain listeners experience inhibition when the structural features of their native dialects do not align with the structural features of the novel accent.
 
