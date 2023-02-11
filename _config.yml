@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Marie Bissell / Linguist"
 title_separator          : "-"
 name                     : &name "Marie Bissell"
-description              : &description "I am a third year Ph.D. student in the Department of Linguistics at Ohio State. I work on sociophonetics."
+description              : &description "I am a fourth year Ph.D. student in the Department of Linguistics at Ohio State. My research is primarily in laboratory phonology and language variation and change."
 url                      : https://mariebissell.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "About Me"
   avatar           : "profile.jpg"
-  bio              : "I am a third year Ph.D. student in the Department of Linguistics at Ohio State. I am primarily a sociophonetician."
+  bio              : "I am a fourth year Ph.D. student in the Department of Linguistics at Ohio State. My research is primarily in laboratory phonology and language variation and change."
   location         : "Columbus, OH"
   employer         : The Ohio State University
   googlescholar    : "https://scholar.google.com/citations?user=2aiyS88AAAAJ&hl=en"
