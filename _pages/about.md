@@ -15,7 +15,8 @@ I previously completed an M.A. in English (Linguistics) at North Carolina State 
 <br><br><br>
 
 <strong>Recent refereed publications</strong><br>
-Bissell, M., Álvarez-Retamales, J., Champagne, M., Hatcher, J., Omar, S., & Wolfram, W. (Accepted, to appear). Linguistic literacy and advocacy in action: Case studies in community engagement. In A.H. Charity Hudley & C. Mallinson, <em>Oxford Collection on Inclusion in Linguistics</em>. Oxford University Press.
+
+Shport, I., Bissell, M., Berkson, K., & Carmichael, K. (2023). Regional and individual variation in acoustic targets of /ai/ and /au/ in American English. <em>Proceedings of the International Conference of the 20th International Congress of Phonetic Sciences</em>.
 <br><br>
 Bissell, M. (2023). Placing /aw/ retraction in the retreat from the Southern Vowel Shift in Raleigh, North Carolina. <em>Journal of English Linguistics, 55</em>(1): 66-83. DOI: https://doi.org/10.1177/00754242221144474.
 <br><br>
