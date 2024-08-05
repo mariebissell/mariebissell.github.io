@@ -8,16 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Department of Linguistics & TESOL at the University of Texas at Arlington. I received my Ph.D. from the Department of Linguistics at Ohio State University in 2024, where I was advised by [Cynthia Clopper](https://linguistics.osu.edu/people/clopper.1) and [Kathryn Campbell-Kibler](https://linguistics.osu.edu/people/campbellkibler.1).
+I am an Assistant Professor in the Department of Linguistics & TESOL at the University of Texas at Arlington. I received my Ph.D. from the Department of Linguistics at Ohio State University in 2024, where I was advised by [Cynthia Clopper](https://linguistics.osu.edu/people/clopper.1) and [Kathryn Campbell-Kibler](https://linguistics.osu.edu/people/campbellkibler.1). 
 <br><br>
 I am primarily interested in how phonetic, phonological, and social factors affect the production and perception of dialect-specific allophonic systems. In the realm of production, I work on how each of these types of factors contributes to the actuation and propagation of changes in these allophonic systems. In the realm of perception, I work on how listeners' exposure to dialect-specific allophonic systems affects their phonological and lexical processing. Taken together, these lines of research aim to probe how changes in dialect-specific allophonic systems manifest and what they reveal about cognitive representations of language variation.
 <br><br>
 I have worked on the origins of pre-voiceless diphthong raising ("American raising") in several U.S. cities using production data, including New Orleans (LA) and Columbus (OH), and of /aw/ retraction in Raleigh (NC), a city where the Southern Vowel Shift is receding. 
 <br><br>
 I previously completed an M.A. in English (Linguistics) at North Carolina State University in 2019, where I worked with [Robin Dodsworth](https://chass.ncsu.edu/people/rmdodswo/), [Jeff Mielke](https://chass.ncsu.edu/people/jimielke/), and [Walt Wolfram](https://chass.ncsu.edu/people/wolfram/). I completed a B.A. in Linguistics and a B.A. in Anthropology at Washington University in St. Louis in 2017, where I worked with [John Baugh](https://psych.wustl.edu/people/john-baugh).
-
 <br><br><br>
-
 <strong>Recent refereed publications</strong><br>
 
 Shport, I., Bissell, M., Berkson, K., & Carmichael, K. (2023). Regional and individual variation in acoustic targets of /ai/ and /au/ in American English. <em>Proceedings of the International Conference of the 20th International Congress of Phonetic Sciences</em>.
