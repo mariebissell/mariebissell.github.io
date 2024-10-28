@@ -18,6 +18,10 @@ I previously completed an M.A. in English (Linguistics) at North Carolina State 
 <br><br><br>
 <strong>Recent refereed publications</strong><br>
 
+Bissell, M., & Clopper, C. G. (Accepted). The effect of listener dialect experience on perceptual adaptation to and generalization of a novel vowel shift. <em>Laboratory Phonology: Journal of the Association for Laboratory Phonology</em>. 
+
+Bissell, M., Álvarez-Retamales, J., Champagne, M., Hatcher, J., Omar, S., & Wolfram, W. (2024). Linguistic literacy and advocacy in action: Case studies in community engagement. In A. H. Charity Hudley, M. Bucholtz, & C. Mallinson, <em>Oxford Collection on Inclusion in Linguistics</em>. Oxford University Press.
+
 Shport, I., Bissell, M., Berkson, K., & Carmichael, K. (2023). Regional and individual variation in acoustic targets of /ai/ and /au/ in American English. <em>Proceedings of the International Conference of the 20th International Congress of Phonetic Sciences</em>.
 <br><br>
 Bissell, M. (2023). Placing /aw/ retraction in the retreat from the Southern Vowel Shift in Raleigh, North Carolina. <em>Journal of English Linguistics, 55</em>(1): 66-83. DOI: https://doi.org/10.1177/00754242221144474.
@@ -30,8 +34,6 @@ Bissell, M., & Wolfram, W. (2022). Oppositional identity and back vowel fronting
 
 <strong>Current projects</strong><br>
 <i>Pre-voiceless diphthong raising in several U.S. cities</i>: We are investigating the phonetic origin, diachronic implementation, and phonologization of pre-voiceless /aj/ and /aw/ raising among American English speakers in Indiana, Ohio, and Louisiana. This project is an ongoing collaboration with [Katie Carmichael](https://liberalarts.vt.edu/departments-and-schools/department-of-english/faculty/katie-carmichael.html) at Virginia Tech, [Kelly Berkson](https://linguistics.indiana.edu/about/faculty/berkson-kelly.html) at Indiana University, and [Irina Shport](https://www.lsu.edu/hss/english/faculty/faculty/ishport.php) at LSU.
-<br><br>
-<i>Dialect effects on perceptual adaptation and generalization</i>: My second qualifying paper examines how dialect experience with particular types of vowel shifts in regional varieties of American English affects perceptual adaptation to and generalization of a novel vowel shift. This manuscript is in preparation. 
 
 
 
