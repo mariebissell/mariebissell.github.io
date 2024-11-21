@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Department of Linguistics & TESOL at the University of Texas at Arlington. I received my Ph.D. from the Department of Linguistics at Ohio State University in 2024, where I was advised by [Cynthia Clopper](https://linguistics.osu.edu/people/clopper.1) and [Kathryn Campbell-Kibler](https://linguistics.osu.edu/people/campbellkibler.1). 
+I am an Assistant Professor in the Department of Linguistics & TESOL at the University of Texas at Arlington. My last name is pronounced <div class="ipa">[ˈbɪsl̩]</div>. I received my Ph.D. from the Department of Linguistics at Ohio State University in 2024, where I was advised by [Cynthia Clopper](https://linguistics.osu.edu/people/clopper.1) and [Kathryn Campbell-Kibler](https://linguistics.osu.edu/people/campbellkibler.1). 
 <br><br>
 I am primarily interested in how phonetic, phonological, and social factors affect the production and perception of dialect-specific allophonic systems. In the realm of production, I work on how each of these types of factors contributes to the actuation and propagation of changes in these allophonic systems. In the realm of perception, I work on how listeners' exposure to dialect-specific allophonic systems affects their phonological and lexical processing. Taken together, these lines of research aim to probe how changes in dialect-specific allophonic systems manifest and what they reveal about cognitive representations of language variation.
 <br><br>
