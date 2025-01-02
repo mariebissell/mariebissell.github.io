@@ -14,11 +14,11 @@ I am primarily interested in how phonetic, phonological, and social factors affe
 <br><br>
 I have worked on the origins of pre-voiceless diphthong raising ("American raising") in several U.S. cities using production data, including New Orleans (LA) and Columbus (OH), and of /aw/ retraction in Raleigh (NC), a city where the Southern Vowel Shift is receding. 
 <br><br>
-I previously completed an M.A. in English (Linguistics) at North Carolina State University in 2019, where I worked with [Robin Dodsworth](https://chass.ncsu.edu/people/rmdodswo/), [Jeff Mielke](https://chass.ncsu.edu/people/jimielke/), and [Walt Wolfram](https://chass.ncsu.edu/people/wolfram/). I completed a B.A. in Linguistics and a B.A. in Anthropology at Washington University in St. Louis in 2017, where I worked with [John Baugh](https://psych.wustl.edu/people/john-baugh).
+I previously completed an M.A. in English (Linguistics) at North Carolina State University in 2019, where I worked with [Robin Dodsworth](https://chass.ncsu.edu/people/rmdodswo/), [Jeff Mielke](https://chass.ncsu.edu/people/jimielke/), and [Walt Wolfram](https://chass.ncsu.edu/people/wolfram/). I completed a B.A. in Linguistics and a B.A. in Anthropology at Washington University in St. Louis in 2017, where I worked with [John Baugh](https://profiles.rice.edu/faculty/john-baugh).
 <br><br><br>
 <strong>Recent refereed publications</strong><br>
 
-Bissell, M., & Clopper, C. G. (Accepted). The effect of listener dialect experience on perceptual adaptation to and generalization of a novel vowel shift. <em>Laboratory Phonology: Journal of the Association for Laboratory Phonology</em>. 
+Bissell, M., & Clopper, C. G. (2025). The effect of listener dialect experience on perceptual adaptation to and generalization of a novel vowel shift. <em>Laboratory Phonology: Journal of the Association for Laboratory Phonology, 16</em>(1). DOI: https://doi.org/10.16995/labphon.11588. 
 
 Bissell, M., Álvarez-Retamales, J., Champagne, M., Hatcher, J., Omar, S., & Wolfram, W. (2024). Linguistic literacy and advocacy in action: Case studies in community engagement. In A. H. Charity Hudley, M. Bucholtz, & C. Mallinson, <em>Oxford Collection on Inclusion in Linguistics</em>. Oxford University Press.
 
