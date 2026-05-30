@@ -13,10 +13,10 @@
 ---
 ---
 
-$serif: "Latin Modern Sans", sans-serif;
-$sans-serif: "Latin Modern Sans", sans-serif;
-$global-font-family: "Latin Modern Sans", sans-serif;
-$header-font-family: "Latin Modern Sans", sans-serif;
+$serif: "Latin Modern Serif", serif;
+$sans-serif: "Latin Modern Serif", serif;
+$global-font-family: "Latin Modern Serif", serif;
+$header-font-family: "Latin Modern Serif", serif;
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
