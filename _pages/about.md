@@ -52,5 +52,13 @@ Me with my collaborators Cynthia Clopper and Kyler Laycock at the Acoustical Soc
 <br><br>
 <i>Pre-voiceless diphthong raising in several U.S. cities</i>: We are investigating the phonetic origin, diachronic implementation, and phonologization of pre-voiceless /ai/ and /au/ raising among American English speakers in Indiana, Ohio, and Louisiana. This project is an ongoing collaboration with [Katie Carmichael](https://liberalarts.vt.edu/departments-and-schools/department-of-english/faculty/katie-carmichael.html) at Virginia Tech, [Kelly Berkson](https://linguistics.indiana.edu/about/faculty/berkson-kelly.html) and [Stuart Davis](https://linguistics.indiana.edu/faculty/davis/) at Indiana University, and [Irina Shport](https://www.lsu.edu/hss/english/faculty/faculty/ishport.php) at Louisiana State University.
 
+<p align="center">
+  <img src="/images/mb_withcollaborators1.jpg" width="600">
+</p>
+
+<p align="center">
+Me with my collaborators Kelly Berkson and Monica Nesbitt at the Acoustical Society of America in New Orleans, LA in May 2025.
+</p>
+
 
 
