@@ -41,23 +41,41 @@
 @import "print";
 
 @font-face {
-  font-family: "CMU Sans Serif";
-  src: url("/assets/fonts/cmunss.woff2") format("woff2");
-  font-weight: normal;
+  font-family: "Latin Modern Sans";
+  src: url("/assets/fonts/lmsans10-regular-webfont.ttf") format("truetype");
+  font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "CMU Sans Serif";
-  src: url("/assets/fonts/cmunso.woff2") format("woff2");
-  font-weight: normal;
+  font-family: "Latin Modern Sans";
+  src: url("/assets/fonts/lmsans10-oblique-webfont.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Latin Modern Sans";
+  src: url("/assets/fonts/lmsans10-bold-webfont.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Latin Modern Sans";
+  src: url("/assets/fonts/lmsans10-boldoblique-webfont.ttf") format("truetype");
+  font-weight: 700;
   font-style: italic;
 }
 
 body,
 .page__content,
+.archive,
 .page__title,
 .archive__item-title,
-h1, h2, h3, h4, h5, h6 {
-  font-family: "CMU Sans Serif", sans-serif;
+h1, h2, h3, h4, h5, h6,
+.site-title,
+.masthead,
+.greedy-nav {
+  font-family: "Latin Modern Sans", sans-serif;
 }
