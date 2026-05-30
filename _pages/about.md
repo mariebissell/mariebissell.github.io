@@ -39,7 +39,9 @@ Bissell, M. (2023). Placing /aw/ retraction in the retreat from the Southern Vow
 <br><br>
 <i>Geographic mobility and lexical processing</i>: We are studying how listeners' experiences with dialect variation affect how they process words. We are analyzing mono-dialectals vs. multi-dialectals as well as effects of exposure to specific dialectal variants (e.g., /ai/ monophthongization). We have employed various psycholinguistic methods, including priming and eye-tracking. We are currently preparing manuscripts from this project for submission to <em>Journal of Phonetics</em> and <em>Glossa: Psycholinguistics</em>. This project is an ongoing collaboration with [Cynthia Clopper](https://www.asc.ohio-state.edu/clopper.1/) at Ohio State, [Abby Walker](https://sites.google.com/vt.edu/abbyjwalker) at Virginia Tech, Ohio State graduate students (Kyler Laycock, Kevin Lilley), and Ohio State undergraduate students (Larisa Bryan, Declan Chandler-Holtz). 
 
-![](/images/mb_withcollaborators2.jpg){: width="80%"}
+<p align="center">
+  <img src="/images/mb_withcollaborators2.jpg" width="500">
+</p>
 
 <p align="center">
 Me with my collaborators Cynthia Clopper and Kyler Laycock at the Acoustical Society of America in Philadelphia, PA in May 2026.
