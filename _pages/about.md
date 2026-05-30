@@ -39,11 +39,12 @@ Bissell, M. (2023). Placing /aw/ retraction in the retreat from the Southern Vow
 <br><br>
 <i>Geographic mobility and lexical processing</i>: We are studying how listeners' experiences with dialect variation affect how they process words. We are analyzing mono-dialectals vs. multi-dialectals as well as effects of exposure to specific dialectal variants (e.g., /ai/ monophthongization). We have employed various psycholinguistic methods, including priming and eye-tracking. We are currently preparing manuscripts from this project for submission to <em>Journal of Phonetics</em> and <em>Glossa: Psycholinguistics</em>. This project is an ongoing collaboration with [Cynthia Clopper](https://www.asc.ohio-state.edu/clopper.1/) at Ohio State, [Abby Walker](https://sites.google.com/vt.edu/abbyjwalker) at Virginia Tech, Ohio State graduate students (Kyler Laycock, Kevin Lilley), and Ohio State undergraduate students (Larisa Bryan, Declan Chandler-Holtz). 
 
-<div style="text-align:center;">
-<img src="/images/mb_withcollaborators2.jpg" width="600">
+<div style="text-align: center;">
+  <img src="/images/mb_withcollaborators2.jpg" width="600">
 
-Me with my collaborators Cynthia Clopper and Kyler Laycock at the Acoustical Society of America in Philadelphia, PA in May 2026.
+  <p>Me with my collaborators Cynthia Clopper and Kyler Laycock at the Acoustical Society of America in Philadelphia, PA in May 2026.</p>
 </div>
+
 <br><br>
 <i>Hyperarticulation of dialect variants</i>: We are exploring clear speech as a novel approach to addressing the actuation problem, aiming to figure out whether phonological control of new variants could originate in clear speech registers. We are currently revising a proposal to submit to the National Science Foundation, which was previously submitted to the National Science Foundation's Build & Broaden Program and ranked high competitive. This project is an ongoing collaboration with [Ivy Hauser](https://www.uta.edu/academics/faculty/profile?user=ivy.hauser) at UT Arlington.
 <br><br>
