@@ -32,7 +32,6 @@ Bissell, M., Álvarez-Retamales, J., Champagne, M., Hatcher, J., Omar, S., & Wol
 Shport, I., Bissell, M., Berkson, K., & Carmichael, K. (2023). Regional and individual variation in acoustic targets of /ai/ and /au/ in American English. <em>Proceedings of the International Conference of the 20th International Congress of Phonetic Sciences</em>.
 <br><br>
 Bissell, M. (2023). Placing /aw/ retraction in the retreat from the Southern Vowel Shift in Raleigh, North Carolina. <em>Journal of English Linguistics, 55</em>(1): 66-83. DOI: https://doi.org/10.1177/00754242221144474.
-<br><br>
 <br><br><br>
 
 <strong>Current projects</strong><br>
