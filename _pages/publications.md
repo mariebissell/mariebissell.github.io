@@ -4,9 +4,10 @@ title: "Research projects"
 permalink: /researchprojects/
 author_profile: true
 ---
+<b>Cross-linguistic effects on lexical processing</b>: We are examining how listeners' experiences with languages other than English affect how they process words with different English allophones. We are currently preparing a manuscript from this project for submission to <em>Journal of the Acoustical Society of America</em>. This project is an ongoing collaboration with UT Arlington graduate student Shawn Tang.
+<br><br>
 
-<strong>Current projects</strong><br>
-<i>Cross-linguistic effects on lexical processing</i>: We are examining how listeners' experiences with languages other than English affect how they process words with different English allophones. We are currently preparing a manuscript from this project for submission to <em>Journal of the Acoustical Society of America</em>. This project is an ongoing collaboration with UT Arlington graduate student Shawn Tang.
+<i>Hyperarticulation of dialect variants</i>: We are exploring clear speech as a novel approach to addressing the actuation problem, aiming to figure out whether phonological control of new variants could originate in clear speech registers. We are currently revising a proposal to submit to the National Science Foundation, which was previously submitted to the National Science Foundation's Build & Broaden Program and ranked high competitive. This project is an ongoing collaboration with [Ivy Hauser](https://www.uta.edu/academics/faculty/profile?user=ivy.hauser) at UT Arlington.
 <br><br>
 
 <p align="center">
@@ -36,7 +37,6 @@ Me with my collaborator Abby Walker at the Acoustical Society of America in New 
 </p>
 
 
-<i>Hyperarticulation of dialect variants</i>: We are exploring clear speech as a novel approach to addressing the actuation problem, aiming to figure out whether phonological control of new variants could originate in clear speech registers. We are currently revising a proposal to submit to the National Science Foundation, which was previously submitted to the National Science Foundation's Build & Broaden Program and ranked high competitive. This project is an ongoing collaboration with [Ivy Hauser](https://www.uta.edu/academics/faculty/profile?user=ivy.hauser) at UT Arlington.
 <br><br>
 <i>Pre-voiceless diphthong raising in several U.S. cities</i>: We are investigating the phonetic origin, diachronic implementation, and phonologization of pre-voiceless /ai/ and /au/ raising among American English speakers in Indiana, Ohio, and Louisiana. This project is an ongoing collaboration with [Katie Carmichael](https://liberalarts.vt.edu/departments-and-schools/department-of-english/faculty/katie-carmichael.html) at Virginia Tech, [Kelly Berkson](https://linguistics.indiana.edu/about/faculty/berkson-kelly.html) and [Stuart Davis](https://linguistics.indiana.edu/faculty/davis/) at Indiana University, and [Irina Shport](https://www.lsu.edu/hss/english/faculty/faculty/ishport.php) at Louisiana State University.
 
