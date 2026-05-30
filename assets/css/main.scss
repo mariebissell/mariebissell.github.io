@@ -79,3 +79,24 @@ h1, h2, h3, h4, h5, h6,
 .greedy-nav {
   font-family: "Latin Modern Sans", sans-serif;
 }
+
+body,
+.page__content,
+.archive,
+.archive__item-title,
+.page__title,
+.site-title,
+.site-subtitle,
+.masthead,
+.greedy-nav,
+.greedy-nav a,
+.masthead__menu,
+.masthead__menu-item,
+.sidebar,
+.author__name,
+.author__bio,
+.nav__list,
+.toc,
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Latin Modern Sans", sans-serif !important;
+}
