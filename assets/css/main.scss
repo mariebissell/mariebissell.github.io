@@ -39,3 +39,25 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+@font-face {
+  font-family: "CMU Sans Serif";
+  src: url("/assets/fonts/cmunss.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "CMU Sans Serif";
+  src: url("/assets/fonts/cmunso.woff2") format("woff2");
+  font-weight: normal;
+  font-style: italic;
+}
+
+body,
+.page__content,
+.page__title,
+.archive__item-title,
+h1, h2, h3, h4, h5, h6 {
+  font-family: "CMU Sans Serif", sans-serif;
+}
