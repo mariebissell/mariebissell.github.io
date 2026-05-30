@@ -10,6 +10,14 @@
  *
 */
 
+---
+---
+
+$serif: "Latin Modern Sans", sans-serif;
+$sans-serif: "Latin Modern Sans", sans-serif;
+$global-font-family: "Latin Modern Sans", sans-serif;
+$header-font-family: "Latin Modern Sans", sans-serif;
+
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
