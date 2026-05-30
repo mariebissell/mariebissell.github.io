@@ -47,13 +47,3 @@ Me with my collaborator Abby Walker at the Acoustical Society of America in New 
 <p align="center">
 Me with my collaborators Kelly Berkson and Monica Nesbitt at the Acoustical Society of America in New Orleans, LA in May 2025.
 </p>
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
