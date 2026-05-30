@@ -16,7 +16,7 @@ I have worked on the origins of pre-voiceless diphthong raising ("American raisi
 <br><br>
 I previously completed an M.A. in English (Linguistics) at North Carolina State University in 2019, where I worked with [Robin Dodsworth](https://chass.ncsu.edu/people/rmdodswo/), [Jeff Mielke](https://chass.ncsu.edu/people/jimielke/), and [Walt Wolfram](https://chass.ncsu.edu/people/wolfram/). I completed a B.A. in Linguistics and a B.A. in Anthropology at Washington University in St. Louis in 2017, where I worked with [John Baugh](https://profiles.rice.edu/faculty/john-baugh).
 <br><br><br>
-<strong>Recent refereed publications </strong><br>
+<strong>Recent refereed publications (PDFs of all publications are linked in my [CV](https://mariebissell.github.io/publications/CurriculumVitae_Bissell_052026.pdf).) </strong><br>
 Bissell, M. (under review). The role of dialect exposure in the processing of allophonic variation: Evidence from eye-tracking. <em>Laboratory Phonology: Journal of the Association for Laboratory Phonology</em>.
 <br><br>
 Hauser, I., Bissell, M., & Baese-Berk, M. M. (under review). Common metrics find phantom convergence in laboratory shadowing. <em>Laboratory Phonology: Journal of the Association for Laboratory Phonology</em>.
@@ -33,8 +33,6 @@ Shport, I., Bissell, M., Berkson, K., & Carmichael, K. (2023). Regional and indi
 <br><br>
 Bissell, M. (2023). Placing /aw/ retraction in the retreat from the Southern Vowel Shift in Raleigh, North Carolina. <em>Journal of English Linguistics, 55</em>(1): 66-83. DOI: https://doi.org/10.1177/00754242221144474.
 <br><br>
-PDFs of all publications are linked in my [CV](https://mariebissell.github.io/publications/CurriculumVitae_Bissell_052026.pdf).
-
 <br><br><br>
 
 <strong>Current projects</strong><br>
