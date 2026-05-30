@@ -6,6 +6,34 @@ $sans-serif: "Latin Modern Serif", serif;
 $global-font-family: "Latin Modern Serif", serif;
 $header-font-family: "Latin Modern Serif", serif;
 
+@font-face {
+  font-family: "Latin Modern Serif";
+  src: url("/assets/fonts/lmroman10-regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Latin Modern Serif";
+  src: url("/assets/fonts/lmroman10-italic.otf") format("opentype");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Latin Modern Serif";
+  src: url("/assets/fonts/lmroman10-bold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Latin Modern Serif";
+  src: url("/assets/fonts/lmroman10-bolditalic.otf") format("opentype");
+  font-weight: 700;
+  font-style: italic;
+}
+
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
@@ -35,34 +63,6 @@ $header-font-family: "Latin Modern Serif", serif;
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-
-@font-face {
-  font-family: "Latin Modern Serif";
-  src: url("/assets/fonts/lmroman10-regular.otf") format("opentype");
-  font-weight: 400;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "Latin Modern Serif";
-  src: url("/assets/fonts/lmroman10-italic.otf") format("opentype");
-  font-weight: 400;
-  font-style: italic;
-}
-
-@font-face {
-  font-family: "Latin Modern Serif";
-  src: url("/assets/fonts/lmroman10-bold.otf") format("opentype");
-  font-weight: 700;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "Latin Modern Serif";
-  src: url("/assets/fonts/lmroman10-bolditalic.otf") format("opentype");
-  font-weight: 700;
-  font-style: italic;
-}
 
 body,
 .page__content,
